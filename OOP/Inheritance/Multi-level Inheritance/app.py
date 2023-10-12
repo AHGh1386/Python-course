@@ -1,18 +1,18 @@
 # ================================Multi-level Inheritance=====================
 
 
-# class Animals():
+class Animals():
 
-#     def eat(self):
-#         print("eat")
-
-
-# class Birds(Animals):
-#     def fly(self):
-#         print("fly")
+    def eat(self):
+        print("eat")
 
 
-# class Chickens(Birds):
-#     pass
+class Birds(Animals):
+    def fly(self):
+        print("fly")
 
-# Employee -> Person -> LivingCreature -> Thing
+
+class Chickens(Birds):
+    pass
+
+#  Chickens --> Birds --> Animals
