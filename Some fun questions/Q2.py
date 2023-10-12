@@ -8,3 +8,5 @@ def fizz_buzz(number):
         print("Buzz")
     else:
         print(number)
+
+fizz_buzz(29)
