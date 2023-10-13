@@ -33,3 +33,14 @@ date1 = datetime.date(2022, 1, 1)
 date2 = datetime.date(2022, 12, 31)
 time_difference = date2 - date1
 print("Time Difference:", time_difference.days, "days")
+
+###
+1. `datetime.now()` - Retrieves the current date and time.
+2. `date.today()` - Retrieves the current date.
+3. `date()` - Creates a specific date.
+4. `time()` - Creates a specific time.
+5. `strftime()` - Formats a date and time as a string.
+6. `strptime()` - Parses a string to a datetime object.
+7. `timedelta()` - Performs date arithmetic.
+8. `days` - Retrieves the number of days in a time difference.
+###
