@@ -1,3 +1,5 @@
+import csv
+
 with open("data.csv", "w") as file:
     writer = csv.writer(file)
     writer.writerow(["trns_id", "pro_id", "price"])
