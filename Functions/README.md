@@ -45,4 +45,3 @@
    * Use F5 to run / F10 to Step over / F11 to step in / F9 to put a break point
    * In The left Side inside the variables section you can see variables value  at the moments
    * If you sure about a function and know its working properly Use Shift+F11 to step out of that
-
