@@ -968,3 +968,6 @@
   - For `Update` you should give the selected item id and all textboxes info to update method
   - Now you can create an executable file of your application by using `pyinstaller` module ad this command:
   - `"pyinstaller --onefile --windowed app.py"`
+
+
+### Give star⭐ if it was useful 😉
